@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/rfv9yi8w4ef22245?svg=true)](https://ci.appveyor.com/project/Oksana017/apicirest)
+[![Build status](https://ci.appveyor.com/api/projects/status/rfv9yi8w4ef22245/branch/main?svg=true)](https://ci.appveyor.com/project/Oksana017/apicirest/branch/main)
